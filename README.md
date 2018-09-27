@@ -3,3 +3,5 @@ Filtre moyenneur (linéaire) et médian (non-linéaire) pour réduire le bruit d
 
 # Démonstration
 ![](/Showcase/circuitBoard.PNG)
+![](/Showcase/vegetables.PNG)
+![](/Showcase/photograph.PNG)
