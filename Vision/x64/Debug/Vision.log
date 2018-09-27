@@ -1,0 +1,5 @@
+﻿  Vision.cpp
+c:\users\usager\source\repos\vision\vision\vision.cpp(18): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\usager\source\repos\vision\vision\vision.cpp(23): warning C4552: '/' : résultat de l'expression non utilisé
+c:\users\usager\source\repos\vision\vision\vision.cpp(25): warning C4244: 'return' : conversion de 'double' en 'int', perte possible de données
+  Vision.vcxproj -> C:\Users\usager\source\repos\Vision\x64\Debug\Vision.exe
